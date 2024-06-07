@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Veer</h1>
 <h3 align="center">A passionate full stack developer from India</h3><br>
+<img align="right" alt="coding" width="400" src=https://asterisker.ru/wp-content/themes/microtik/img/usefully2.png>
+
 <h4 align="center">I have developed this data visualization project using>>>>Python and other Liabraries:>>>>Pandas, Tkinter, Matplotlib
 
 
